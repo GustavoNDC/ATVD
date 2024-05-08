@@ -23,3 +23,10 @@ Var declara variaveis globais
 Let declara variaveis usadas naquele bloco de código
 Const é uma variavel constante, ironicamente não pode ter valor variavel, com exeção se usado como lista, mas não pode
 ter o tipo alterado
+
+    //7.
+
+/*
+Utilize comentários de linha única e comentários de várias linhas em um programa
+simples que você escrever.
+*/
