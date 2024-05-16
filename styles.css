@@ -24,9 +24,8 @@ h1 {
 }
 
 .gifs img {
- max-width: 15cw;
- max-height: 15ch;
-
+ max-width: 20vw;
+ max-height: 20vh;
 }
 */
 .buttons {
