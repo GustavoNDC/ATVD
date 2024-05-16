@@ -17,14 +17,16 @@ h1 {
 .gifs {
   display: flex;
   flex-wrap: wrap;
-  gap: 10px;
-  justify-content: center; /* Centraliza horizontalmente */
+  /*gap: 10px;*/
+  justify-content: center;
   align-items: center;
+  
 }
 
 .gifs img {
-  max-width: 18%;
-  max-height: 18%;
+ max-width: 15cw;
+ max-height: 15ch;
+
 }
 */
 .buttons {
